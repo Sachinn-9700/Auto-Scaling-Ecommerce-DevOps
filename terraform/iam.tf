@@ -41,7 +41,7 @@ resource "aws_iam_role" "eks_node_role" {
   })
 }
 
-# Node policies (explicitly attached)
+# Node policies 
 resource "aws_iam_role_policy_attachment" "eks_node_worker" {
   role       = aws_iam_role.eks_node_role.name
   policy_arn = "arn:aws:iam::aws:policy/AmazonEKSWorkerNodePolicy"
