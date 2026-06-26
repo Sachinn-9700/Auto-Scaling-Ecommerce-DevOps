@@ -1,5 +1,5 @@
 
-# 🛒 Auto-Scaling E-Commerce Application on AWS EKS
+# 🛒 Auto-Scaling E-Commerce Application.
 
 **An end-to-end DevOps project demonstrating infrastructure automation, CI/CD, Kubernetes orchestration, and autoscaling on AWS.**
 
