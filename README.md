@@ -155,5 +155,5 @@ The following are **intentionally left out** and planned as future scope:
 2. Access Jenkins on the EC2 instance.
 3. Trigger the Jenkins pipeline to build, push, and deploy the application.
 4. Verify application access via Kubernetes services.
-5. Monitor scaling and metrics via Prometheus and Grafana.
+5. Monitor scaling and metrics via Prometheus and Grafana
 ---
